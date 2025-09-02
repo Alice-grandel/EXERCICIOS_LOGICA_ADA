@@ -99,7 +99,6 @@ O programa deverá solicitar ao usuário:
     Salário Líquido               : R$  935,00
 
 # Codigo:     
-<img width="2656" height="2464" alt="folhadepagamento" src="https://github.com/user-attachments/assets/747eba0b-ab29-49ed-bf8f-14ba41b1347d" />
 
 
 # EXERCICIO *ADA*: 3
@@ -117,7 +116,6 @@ Vou montar a tabuada de 5 começando em 4 e terminando em 7:
 5 X 7 = 35
 ```
 CODIGO:
-<img width="2368" height="1744" alt="tabuada" src="https://github.com/user-attachments/assets/fa91e463-5288-4eec-8150-42b96023c298" />
 
 # EXERCICIO *ADA*: 4
 
@@ -134,13 +132,12 @@ Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 1
 Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
 ```
 CODIGO:
-<img width="2220" height="3496" alt="caixa_eletronico" src="https://github.com/user-attachments/assets/571d4b89-b601-4d38-ae53-ed62a4c1115c" />
 
 # EXERCICIO *ADA*: 5 
 
 CAIXA REGISTRADORA: Crie um programa em Rust que simule o funcionamento de um caixa registradora. O sistema deve permitir o registro de múltiplos produtos em uma única compra, calcular o valor total, receber o pagamento do cliente, verificar se o valor é suficiente e calcular o troco. Ao final da operação, o programa deve perguntar se o caixa deve ser reaberto para uma nova compra. 
-<img width="2656" height="2356" alt="caixa-registradora" src="https://github.com/user-attachments/assets/b4a21674-1b15-4c99-b248-4cddd2d337cb" />
 
+CODIGO:
 
 # EXERCICIO *ADA*: 6
 
@@ -148,15 +145,12 @@ LITRO COMBUSTIVEL:
  Um posto está vendendo combustíveis com a seguinte tabela de descontos: Álcool: até 20 litros, desconto de 3% por litro acima de 20 litros, desconto de 5% por litro Gasolina: até 20 litros, desconto de 4% por litro acima de 20 litros, desconto de 6% por litro
 Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
 
-<img width="2512" height="2968" alt="tipo combustivel" src="https://github.com/user-attachments/assets/1c049072-5315-4a3b-b4d9-f859269a9183" />
-
+CODIGO:
 
 # EXERCICIO *ADA*: 7
 
 Um jogo da forca simples feito em Rust rodando no terminal. O objetivo é adivinhar a palavra secreta, letra por letra, com no máximo 3 erros.
 
----
- 
 # CODIGO JOGO DA FORCA:
 <img width="1012" height="833" alt="screenshot-2025-09-02_12-01-19" src="https://github.com/user-attachments/assets/f0a8ae3b-9b02-47dd-bd37-d875c2edf3cc" />
 
@@ -183,7 +177,6 @@ Vez do jogador 'X'
 Digite a linha e coluna (ex: 0 1): 1 1
 ```
 # CODIGO JOGO DA VELHA 🦀: 
-<img width="2426" height="4048" alt="Jogo da velha" src="https://github.com/user-attachments/assets/e05d53dc-c02e-4202-8da0-f25a9051749e" />
 
 # EXERCICIO *ADA*: 9
 Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-Manhã ou t-TARDE ou N- noite.
@@ -191,4 +184,4 @@ Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-M
 Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 
 🦀 CODIGO: 
-<img width="1466" height="871" alt="image" src="https://github.com/user-attachments/assets/9f100244-eef1-4b6f-8d80-1fa22ffcf93f" /> atualiza pra ada de rust pra da sabe eu vou colocar meu codigo dps nessas atividades
+
