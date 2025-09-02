@@ -47,7 +47,7 @@ Funcionalidades:
     Perguntar ao usuário se deseja realizar outra operação, repetindo o processo enquanto desejar.
 
  # Codigo:    
-<img width="1322" height="855" alt="screenshot-2025-09-02_12-00-58" src="https://github.com/user-attachments/assets/096ba3d1-e826-4ab3-9679-419dc0cf95b1" />
+<img width="1289" height="917" alt="screenshot-2025-09-02_20-46-15" src="https://github.com/user-attachments/assets/5e6eb044-3208-4b26-a275-2c95145b149f" />
 
 
 
