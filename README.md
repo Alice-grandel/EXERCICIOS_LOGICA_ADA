@@ -99,6 +99,7 @@ O programa deverá solicitar ao usuário:
     Salário Líquido               : R$  935,00
 
 # Codigo:     
+<img width="1119" height="801" alt="screenshot-2025-09-02_21-21-13" src="https://github.com/user-attachments/assets/599d3174-f263-49e5-9a12-14573f58d648" />
 
 
 # EXERCICIO *ADA*: 3
