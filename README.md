@@ -180,12 +180,12 @@ Este é um jogo da velha (tic-tac-toe) feito em **Rust**, rodando inteiramente n
 Vez do jogador 'X'
 Digite a linha e coluna (ex: 0 1): 1 1
 ```
-# CODIGO JOGO DA VELHA 🦀: 
+# CODIGO JOGO DA VELHA <img width="45" height="40" alt="image" src="https://github.com/user-attachments/assets/a9275006-bef7-4d56-bfa1-877e5bc54f20" />: 
 
 # EXERCICIO *ADA*: 9
 Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-Manhã ou t-TARDE ou N- noite.
 
 Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 
-🦀 CODIGO: 
+<img width="45" height="40" alt="image" src="https://github.com/user-attachments/assets/a9275006-bef7-4d56-bfa1-877e5bc54f20" /> CODIGO: 
 
