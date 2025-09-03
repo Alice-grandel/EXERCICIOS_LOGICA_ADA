@@ -117,6 +117,9 @@ Vou montar a tabuada de 5 começando em 4 e terminando em 7:
 5 X 7 = 35
 ```
 CODIGO:
+<img width="1464" height="1406" alt="code-snapshot" src="https://github.com/user-attachments/assets/68452ca2-61e2-48f3-a734-501ae1805a1a" />
+
+
 
 # EXERCICIO *ADA*: 4
 
